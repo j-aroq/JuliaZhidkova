@@ -1,6 +1,6 @@
 ### Hi!
-
-## Навыки: 
+My name is Julia and I'm a beginner front end developer. I’m finishing a web development course at Yandex Practicum.
+## Skills: 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,6 +21,6 @@
 ![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=Nestjs)
 ![Postman](https://img.shields.io/badge/-Postman-lightblue?style=flat-square&logo=Postman)
 
-## Статистика
+## Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-aroq&show_icons=true&theme=transparent&hide=issues)](https://github.com/Karkachevich/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-aroq&layout=compact&show_icons=true&theme=transparent)](https://github.com/Karkachevich/github-readme-stats)
