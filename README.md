@@ -1,6 +1,6 @@
 ### Hi!
-My name is Julia and I'm a beginner front end developer. I’m finishing a web development course at Yandex Practicum.
-## Skills: 
+My name is Julia and I'm a beginner Frontend Developer. I’m finishing a web development course at Yandex Practicum.
+## Skills 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,6 +20,13 @@ My name is Julia and I'm a beginner front end developer. I’m finishing a web d
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=PostgreSQL)
 ![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=Nestjs)
 ![Postman](https://img.shields.io/badge/-Postman-lightblue?style=flat-square&logo=Postman)
+
+## Contacts
+Email <zhidkova.julia@gmail.com>
+
+<a href="https://t.me/yuliya_aroq" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
 
 ## Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-aroq&show_icons=true&theme=transparent&hide=issues)](https://github.com/Karkachevich/github-readme-stats)
