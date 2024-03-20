@@ -27,6 +27,11 @@ Email <zhidkova.julia@gmail.com>
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
+<a href="https://wa.me/34687068967" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-2CA5E0?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+
 ## Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-aroq&show_icons=true&theme=transparent&hide=issues)](https://github.com/Karkachevich/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-aroq&layout=compact&show_icons=true&theme=transparent)](https://github.com/Karkachevich/github-readme-stats)
